@@ -6,19 +6,17 @@ Student of Professional Master’s Degree in Information Technology at Sabancı 
 
 📚 Tech Stack:
 
-- ☕Java programming with OOP principles, Spring Boot, REST API and Microservices Architecture and related technologies such as JPA, Hibernate, Maven.
+- ☕Java programming with OOP principles. Spring Boot, REST API and Microservices Architecture and related technologies such as JPA, Hibernate, Maven.
 
-- 🐍 Python programming, including data analysis, Machine Learning Tools: Numpy, Pandas, Scikit, Statsmodels etc.
+- 🐍 Python programming, including data analysis, Machine Learning Tools: Numpy, Pandas, Scikit, Statsmodels etc. Big Data Processing with Apache Spark.
 
 - 📊 SQL, RDBMS and data modeling techniques, including E-R Diagrams, normalization (Oracle, MySQL)
 
-- ✅ Familiar with front-end technologies such as HTML/CSS and JavaScript.
+- ✅ Familiar with front-end technologies such as HTML/CSS, JavaScript and Vue.js.
 
-- 🌍 Core knowledge in networking and TCP/IP protocols.
+- 🧮 Learning Stack: Mobile Development with Kotlin & Android
 
-- 🧮 Learning Stack:  Big Data Processing - Hadoop and Apache Spark, Kafka, Docker, AWS 
-
-- 🔭 I’m currently working on my own projects on Java & Spring Boot
+- 🔭 I’m currently working on my mobile projects on Kotlin & Android
 
 - 📫 How to reach me: https://www.linkedin.com/in/fzehra-gunes05/
 
