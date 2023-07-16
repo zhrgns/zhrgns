@@ -16,7 +16,7 @@ Student of Professional Master’s Degree in Information Technology at Sabancı 
 
 - 🧮 Learning Stack: Mobile Development with Kotlin & Android
 
-- 🔭 I’m currently working on my mobile projects on Kotlin & Android
+- 🔭 I’m currently working on my mobile projects on Kotlin & Android React Native
 
 - 📫 How to reach me: https://www.linkedin.com/in/fzehra-gunes05/
 
