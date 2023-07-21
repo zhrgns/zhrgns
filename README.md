@@ -14,9 +14,9 @@ Student of Professional Master’s Degree in Information Technology at Sabancı 
 
 - ✅ Familiar with front-end technologies such as HTML/CSS, JavaScript and Vue.js.
 
-- 🧮 Learning Stack: Mobile Development with Kotlin & Android
+- 🧮 Learning Stack: Mobile Development with Kotlin & React Native
 
-- 🔭 I’m currently working on my mobile projects on Kotlin & Android React Native
+- 🔭 I’m currently working on my mobile projects on Kotlin & React Native
 
 - 📫 How to reach me: https://www.linkedin.com/in/fzehra-gunes05/
 
